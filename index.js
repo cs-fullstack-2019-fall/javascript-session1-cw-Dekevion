@@ -14,9 +14,10 @@ class FacebookUser {
         this.name_prop = name
     }
 }
-let otherUser =
+let otherUser;
 emptyArray = [];
 
+// you never created an object(s)
 
 
 //In a main function use the array below to create an array of FacebookUser objects and console.log that new array.
